@@ -1,0 +1,21 @@
+*.class
+
+# Package Files #
+target/
+.settings
+.classpath
+.project
+.tern-project
+*.jsfdia
+*.iml
+.springBeans
+.externalToolBuilders
+log/
+.idea
+
+/.metadata/
+/RemoteSystemsTempFiles/
+/Servers/
+
+#VAADIN
+taxsystem-ejb-control/src/main/webapp/VAADIN/
